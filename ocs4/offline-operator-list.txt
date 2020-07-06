@@ -1,0 +1,4 @@
+local-storage-operator
+cluster-logging
+ocs-operator
+

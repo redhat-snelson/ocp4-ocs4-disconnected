@@ -1,0 +1,17 @@
+spec:
+  repositoryDigestMirrors:
+    - mirrors:
+      - file://ocs4
+      source: registry.redhat.io/ocs4
+    - mirrors:
+      - file://rhceph
+      source: registry.redhat.io/rhceph
+    - mirrors:
+      - file://noobaa
+      source: quay.io/noobaa
+    - mirrors:
+      - file://openshift4
+      source: registry.redhat.io/openshift4
+    - mirrors:
+      - file://rhscl
+      source: registry.redhat.io/rhscl  
